@@ -3,7 +3,7 @@ import java.util.concurrent.BlockingQueue;
 
 public class CallCustomer {
 
-    private final static int CALL_HANDLE_TIME = 2000;
+    private final static int CALL_HANDLE_TIME = 4000;
 
     protected BlockingQueue<Integer> queue;
 
